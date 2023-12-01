@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfoilo/static/css/main.d98f3ec2.css",
-    "main.js": "/Portfoilo/static/js/main.222dc5cb.js",
-    "static/media/dev.jpg": "/Portfoilo/static/media/dev.ef21808c576a6ca801dc.jpg",
-    "static/media/shake.svg": "/Portfoilo/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
-    "index.html": "/Portfoilo/index.html",
-    "main.d98f3ec2.css.map": "/Portfoilo/static/css/main.d98f3ec2.css.map",
-    "main.222dc5cb.js.map": "/Portfoilo/static/js/main.222dc5cb.js.map"
+    "main.css": "./static/css/main.d98f3ec2.css",
+    "main.js": "./static/js/main.f5019e56.js",
+    "static/media/dev.jpg": "./static/media/dev.ef21808c576a6ca801dc.jpg",
+    "static/media/shake.svg": "./static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
+    "index.html": "./index.html",
+    "main.d98f3ec2.css.map": "./static/css/main.d98f3ec2.css.map",
+    "main.f5019e56.js.map": "./static/js/main.f5019e56.js.map"
   },
   "entrypoints": [
     "static/css/main.d98f3ec2.css",
-    "static/js/main.222dc5cb.js"
+    "static/js/main.f5019e56.js"
   ]
 }
